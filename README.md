@@ -1,4 +1,4 @@
-# Jogo-de-Adivinha-o
+# Jogo-de-Adivinhação
 
 Simples jogo de adivinhação que fiz com ajuda dos cursos da Alura
 Programado em Java
